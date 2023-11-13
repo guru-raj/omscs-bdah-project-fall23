@@ -41,7 +41,7 @@ In this step, we extract time series features, select and preprocess clinical no
 ```
 
 ## Step 4. Extract NER concepts and create different embedding representations. 
-- Download `word2vec.model` and `fasttext.bin` from https://gtvault-my.sharepoint.com/:f:/g/personal/vnayak9_gatech_edu/EudI5ziJoIFLnutvQL335HMBBvR17GW7Ic7IrMc3caawMQ?e=9f3z2p and place them inside the `embeddings` folder.
+- Download `word2vec.model` and `fasttext.bin` from [here](https://gtvault-my.sharepoint.com/:f:/g/personal/vnayak9_gatech_edu/EudI5ziJoIFLnutvQL335HMBBvR17GW7Ic7IrMc3caawMQ?e=9f3z2p) and place them inside the `embeddings` folder.
 - After that, please run the Jupyter notebook:
 ```
 01-extract-embed-ner.ipynb
